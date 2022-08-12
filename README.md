@@ -9,4 +9,4 @@
         - "onmouseover";
         - "onmouseout".
 
-## 🚀 O topo é nosso 🚀.
+## 🚀 Bora pra cima. 🚀.
